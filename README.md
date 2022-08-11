@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Warrior3D
 - 👀 I’m interested in ...              3D printing, Python, CircuitPython, Raspberry PI,
-- 🌱 I’m currently learning ...         Network+, Security+, CCNA
+- 🌱 I’m currently learning ...         Python, C++, Cybersecurity, CCNA
 - 💞️ I’m looking to collaborate on ...  Pen Testing, R&D
 - 📫 How to reach me ...                Voron Discord, Network Chuck Discord, Linkedin
 
